@@ -25,6 +25,7 @@
 <p><a href="https://ko-fi.com/vjecnii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vjecnii" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjecni&show_icons=true&locale=en&layout=compact" alt="vjecni" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vjecni&show_icons=true&locale=en" alt="vjecni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vjecni&" alt="vjecni" /></p>
