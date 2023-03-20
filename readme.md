@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjecni&label=Profile%20views&color=0e75b6&style=flat" alt="vjecni" /> </p>
 
-- 🔭 I’m currently working on [Raeedchat](https://raeedchat.com)
+- 🔭 I’m currently working on [NaN]
 
-- 🌱 I’m currently learning **Vue.js, C++, Offensive Security**
+- 🌱 I’m currently learning **React.js, C++, Offensive Security**
 
 - 📫 How to reach me **vjecni1@gmail.com**
 
