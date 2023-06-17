@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NaN]
 
-- 🌱 I’m currently learning **React.js, Rust & interested in Offensive Security**
+- 🌱 I’m currently learning **React.js, C# & interested in Offensive Security**
 
 - 📫 How to reach me **vjecni1@gmail.com**
 
