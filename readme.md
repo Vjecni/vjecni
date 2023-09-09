@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NaN]
 
-- 🌱 I’m currently learning **React.js, python & C++.**
+- 🌱 I’m currently learning **React.js, python**
 
 - 📫 How to reach me **vjecni1@gmail.com**
 
