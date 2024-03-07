@@ -7,9 +7,9 @@ Front-end Web Developer
 * 🌍  I'm based in Bosnia & Herzegovina
 * 🖥️  See my portfolio at [vjecni.dev](http://vjecni.dev)
 * ✉️  You can contact me at [e.rajic05@gmail.com](mailto:e.rajic05@gmail.com)
-* 🚀  I'm currently working on [Filter Social Media App](http://filter.github.io)
-* 🧠  I'm learning C++, Golang & React
-* ⚡  I love motobikes :)
+* 🚀  I'm currently working on Social Media Platform
+* 🧠  I'm learning React, Express.js, Golang
+* ⚡  I love motorbikes :)
 
 <a href="https://www.github.com/Vjecni" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vjecni?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a><a href="https://www.x.com/vjecni_" target="_blank" rel="noreferrer"><img
