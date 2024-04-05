@@ -7,7 +7,7 @@ Front-end Web Developer
 * 🌍  I'm based in Bosnia & Herzegovina
 * 🖥️  See my portfolio at [vjecni.dev](http://vjecni.dev)
 * ✉️  You can contact me at [e.rajic05@gmail.com](mailto:e.rajic05@gmail.com)
-* 🚀  I'm currently working on Social Media Platform
+* 🚀  I'm currently working on NaN
 * 🧠  I'm learning React, Express.js, Golang
 * ⚡  I love motorbikes :)
 
