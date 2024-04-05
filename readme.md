@@ -8,7 +8,7 @@ Front-end Web Developer
 * 🖥️  See my portfolio at [vjecni.dev](http://vjecni.dev)
 * ✉️  You can contact me at [e.rajic05@gmail.com](mailto:e.rajic05@gmail.com)
 * 🚀  I'm currently working on NaN
-* 🧠  I'm learning React, Express.js, Golang
+* 🧠  I'm learning React, Express.js, Python & Making Step into Offensive Security
 * ⚡  I love motorbikes :)
 
 <a href="https://www.github.com/Vjecni" target="_blank" rel="noreferrer"><img
