@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/Vjecni?logo=github&style=for-the-ba
 src="https://img.shields.io/twitter/follow/vjecni_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a>
 
-### Skills
+### 🚀💻 Technologies & Tools
 
 
 <p align="left">
