@@ -23,7 +23,7 @@ I'm Emanuel, a self-taught developer. I started building websites and now I'm di
 ![](https://github-contributor-stats.vercel.app/api?username=Vjecni&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://memes.stormix.co/send/memes' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vjecni&icon=5&color=5)](https://visitcount.itsvg.in)
