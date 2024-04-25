@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm Emanuel, a self-taught developer. I started building websites and now I'm diving into back-end development with Node.js. My next challenge? Conquering Go and exploring the fascinating world of Offensive Security.
-<br>When I'm not coding, you'll find me jamming to some tunes (Trap, Hip-Hop, or classic Bob Marley – it depends on the mood!).<br>Problem-solving is my jam, and I'm always up for a challenge that helps me learn and grow. My downtime is a digital playground – music, games, and curated YouTube dives – keeping my creativity fresh for tackling complex projects.
+
+<br>When I'm not coding, you'll find me jamming to some tunes (Trap, Hip-Hop, or classic Bob Marley – it depends on the mood!). My downtime is a digital playground – music, games, and curated YouTube dives – keeping my creativity fresh for tackling complex projects.
 
 
 ## 🌐 Socials:
