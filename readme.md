@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://emanuelrajic.dev](https://emanuelrajic.dev)
 
-- 💬 Ask me about **React, Nodejs, Golang, Python or C++**
+- 💬 Ask me about **Svelte, SvelteKit, Golang**
 
 - 📫 How to reach me **erajic05@gmail.com**
 
