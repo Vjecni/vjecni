@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vjecni" alt="vjecni" /></a> </p>
 
-- 🔭 I’m currently working on [SquadMS](github.com/Vjecni/go-squad)
+- 🔭 I’m currently working on [Lightning Bolt, SkyNet]
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Python, PHP and VUE**
 
-- 💬 Ask me about **Svelte, SvelteKit, Golang**
+- 💬 Ask me about **C++, Python, PHP, Vue**
 
 - 📫 How to reach me **erajic05@gmail.com**
 
